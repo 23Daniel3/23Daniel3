@@ -1,4 +1,4 @@
-## Hi there 👋 im 
+## Hi there 👋 
 
 - 🔭 I’m currently working on a robot from the FRC TechMaker Team.
 - 🌱 I’m currently learning Java
