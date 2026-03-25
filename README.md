@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Correia Cipriani</h1>
 <h3 align="center">A passionate mechatronics student from Brazil 🇧🇷, deeply involved in the world of high-performance robotics and automation.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=23daniel3" alt="23daniel3" /></a> </p>
-
 - 🔭 I’m currently working on **my own FRC Framework and Lib - WPILib Contributions.**
 
 - 🌱 I’m currently learning **FTC Framework.**
@@ -26,8 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=23daniel3&show_icons=true&locale=en&layout=compact" alt="23daniel3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=23daniel3&show_icons=true&locale=en" alt="23daniel3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=23daniel3&" alt="23daniel3" /></p>
 
 <p align="left">
   <a href="https://github.com/TechMakerRobotics-frc" target="_blank">
