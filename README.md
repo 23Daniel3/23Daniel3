@@ -7,15 +7,22 @@
 
 - 👯 I’m looking to collaborate on **every type of FRC Projects.**
 
-- 💬 Ask me about **Java programming, FRC, AdvantageKit, PathPlanner, CTRe Lib, RevLib, abstraction, SOLID Principles, Odometry, Limelight, PID and Feedforward control, Motor Control & Architecture.**
+- 💬 Ask me about **Java programming, FRC, AdvantageKit, PathPlanner, CTRe Lib, RevLib, abstraction, SOLID Principles, Odometry, Limelight, PID and Feedforward control, Motor Control & Architecture, State machines, Swerve CTRe and YAGSL**
 
 - 📫 How to reach me **danielcipriani321@gmail.com**
 
-- ⚡ Fun fact **When I was a beginner, I made over 100 mistakes in a single piece of code!**
+- ⚡ Fun fact **While everyone was watching fireworks for 2025 and 2026, I was busy debugging Swerve code and drinking coffee until sunrise. ☕🦾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/daniel_cdc23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel_cdc23" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Featured Project:</h3>
+<p align="left">
+  <a href="https://github.com/TechMakerRobotics-frc/TechMaker_Swerve_2026">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechMakerRobotics-frc&repo=TechMaker_Swerve_2026&theme=transparent" alt="Swerve 2026" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
