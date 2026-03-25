@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **every type of FRC Projects.**
 
-- 💬 Ask me about **Java programming, FRC, AdvantageKit, PathPlanner, CTRe Lib, RevLib, abstraction, SOLID Principles, Odometry, Limelight, PID and Feedforward control, Motor Control & Architecture, State machines, Swerve CTRe and YAGSL**
+- 💬 Ask me about **Java programming, FRC, AdvantageKit, PathPlanner, CTRe Lib, RevLib, abstraction, SOLID Principles, Odometry, Limelight, PID and Feedforward control, Motor Control & Architecture, State machines, Swerve CTRe and YAGSL, Throttle Map and simulation**
 
 - 📫 How to reach me **danielcipriani321@gmail.com**
 
