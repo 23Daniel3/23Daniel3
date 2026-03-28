@@ -30,8 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=23daniel3&show_icons=true&locale=en&layout=compact" alt="23daniel3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=23daniel3&show_icons=true&locale=en" alt="23daniel3" /></p>
-
 <p align="left">
   <a href="https://github.com/TechMakerRobotics-frc" target="_blank">
     <img src="https://img.shields.io/badge/FRC%20Team-TechMaker%20Robotics%209047-E31C1C?style=for-the-badge&logo=first&logoColor=white" alt="TechMaker Robotics 9047">
